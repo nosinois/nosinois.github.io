@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+#blog-title{ 
+  padding: 100px 0;
+  text-align: center;
+  background-size: cover;
+  box-shadow: 0 0 10px #c0c0c0;
+  background-image: url("https://yunarigo.github.io/re-road/img/re-road.png");
+  border-top: 20px solid white;
+  border-bottom: 20px solid white;
+}
+#title a{
+  padding: 10px 0;
+  font-size: 64px;
+  letter-spacing: 5px;
+  color: white;
+  transition: 0.6s;
+}
+#title a:visited{
+  color: white;
+}
+#title a:hover, a:active{
+  opacity: 0.5;
+}
+#blog-description{
+  padding: 5px;
+  font-size: 16px;
+  color: white;
+}

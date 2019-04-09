@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+#wrapper{
+  border: 2px solid #a9a9a9;
+}
+.entry{
+}
+.entry-header{
+  margin-bottom: 10px;
+}
+.date{
+}
+.entry-title{
+}
+.entry-title a{
+  /*font-family:;*/
+}
+.entry-content{
+}
+.entry-content h3{
+}
+.entry-content h4{
+}
+.entry-content p{
+}
+.entry-fooeter{
+  display: none;
+}
